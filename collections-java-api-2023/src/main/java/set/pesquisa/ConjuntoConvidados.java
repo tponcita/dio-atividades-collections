@@ -1,4 +1,4 @@
-package main.java.set;
+package main.java.set.pesquisa;
 
 import java.util.HashSet;
 import java.util.Set;
